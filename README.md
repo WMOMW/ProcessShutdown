@@ -1,2 +1,0 @@
-# ProcessShutdown
-Kill bootstrap process
