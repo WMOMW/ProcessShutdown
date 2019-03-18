@@ -9,6 +9,17 @@
 #ifndef PCH_H
 #define PCH_H
 
+
+#include <iostream>
+#include <tchar.h>
+#include <Windows.h>
+#include <Psapi.h>
+#include <TlHelp32.h>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <ctime>
+#include <deque>
 // TODO: 添加要在此处预编译的标头
 
 #endif //PCH_H
